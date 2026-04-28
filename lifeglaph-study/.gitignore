@@ -1,0 +1,24 @@
+# API_keyだから非公開
+API/Gemini
+API/GPT
+# 不要コード
+Code/sample.py
+# 引用指標のため非公開
+Evaluation_matrix/
+# 人生体験の内容があるかもなので非公開
+Gemini/Data
+GPT/Data
+Grok/Data
+# 一旦非公開
+Prompt/
+# 参加者情報は全て非公開
+*.7z
+Data/User_answer
+# 論文執筆用だから
+参考文献/
+# VSCodeの設定ファイル
+venv/
+venvの実行方法.txt
+# 卒研のデータ
+卒研のとき/
+今後の方針.txt
